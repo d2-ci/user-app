@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "./static/css/main.39a84513.chunk.css",
+    "main.js": "./static/js/main.ee5ae26f.chunk.js",
+    "main.js.map": "./static/js/main.ee5ae26f.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
+    "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
+    "static/css/2.a7c0af77.chunk.css": "./static/css/2.a7c0af77.chunk.css",
+    "static/js/2.9dea076f.chunk.js": "./static/js/2.9dea076f.chunk.js",
+    "static/js/2.9dea076f.chunk.js.map": "./static/js/2.9dea076f.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.5ed2617c48cd54df3d2af2ef333c9237.js": "./precache-manifest.5ed2617c48cd54df3d2af2ef333c9237.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.a7c0af77.chunk.css.map": "./static/css/2.a7c0af77.chunk.css.map",
+    "static/css/main.39a84513.chunk.css.map": "./static/css/main.39a84513.chunk.css.map",
+    "static/media/material-design-icons.css": "./static/media/MaterialIcons-Regular.da4ea5cd.ttf",
+    "static/media/index.css": "./static/media/roboto-latin-900italic.bc833e72.woff"
+  }
+}
