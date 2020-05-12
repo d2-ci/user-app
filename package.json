@@ -1,0 +1,6 @@
+{
+  "name": "user-app",
+  "description": "DHIS2 User app",
+  "license": "BSD-3-Clause",
+  "version": "30.0.1"
+}
