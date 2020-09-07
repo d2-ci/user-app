@@ -1,0 +1,1 @@
+{"version":3,"sources":["D2App/AppWrapper.js"],"names":["AppWrapper"],"mappings":"8HAAA,2BAIeA,UAFI,IAAM","file":"static/js/app.62ed41ea.chunk.js","sourcesContent":["import React from 'react';\n\nconst AppWrapper = () => <h1>Wrap</h1>;\n\nexport default AppWrapper;"],"sourceRoot":""}
