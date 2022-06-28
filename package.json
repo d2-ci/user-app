@@ -52,8 +52,5 @@
         "jsdoc": "^3.6.2",
         "redux-logger": "^3.0.6",
         "start-server-and-test": "^1.14.0"
-    },
-    "resolutions": {
-        "@dhis2/ui": "^8.4.4"
     }
 }
