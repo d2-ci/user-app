@@ -1,11 +1,12 @@
 {
+  "id": "1887e1f8-3b62-42a3-8383-975996e0870f",
   "type": "app",
   "coreApp": true,
   "title": "User management",
   "name": "user",
   "description": "An application for managing users, user-groups and user-roles",
-  "minDHIS2Version": "2.38",
-  "version": "1.5.38",
+  "minDHIS2Version": "2.41",
+  "version": "99.9.9",
   "entryPoints": {
     "app": "index.html"
   }
