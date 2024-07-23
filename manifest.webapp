@@ -4,7 +4,7 @@
   "short_name": "user",
   "name": "Users",
   "description": "An application for managing users, user-groups and user-roles",
-  "version": "100.1.5",
+  "version": "100.1.7",
   "core_app": true,
   "launch_path": "index.html",
   "plugin_launch_path": "plugin.html",
@@ -17,7 +17,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Sat Jun 22 2024 23:09:14 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Tue Jul 23 2024 23:10:10 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
