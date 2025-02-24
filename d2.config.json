@@ -6,7 +6,7 @@
   "name": "user",
   "description": "An application for managing users, user-groups and user-roles",
   "minDHIS2Version": "2.41",
-  "version": "100.6.0",
+  "version": "100.6.1",
   "entryPoints": {
     "app": "index.html"
   }
