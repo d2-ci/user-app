@@ -1,0 +1,49 @@
+{
+  "app_hub_id": "1887e1f8-3b62-42a3-8383-975996e0870f",
+  "appType": "APP",
+  "short_name": "user",
+  "name": "Users",
+  "description": "An application for managing users, user-groups and user-roles",
+  "version": "100.9.0",
+  "core_app": true,
+  "launch_path": "index.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": "*"
+    }
+  },
+  "icons": {
+    "48": "dhis2-app-icon.png"
+  },
+  "manifest_generated_at": "Wed Oct 29 2025 06:34:41 GMT+0000 (Coordinated Universal Time)",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "shortcuts": [
+    {
+      "name": "Users",
+      "url": "#/users"
+    },
+    {
+      "name": "New user",
+      "url": "#/users/new"
+    },
+    {
+      "name": "User roles",
+      "url": "#/user-roles"
+    },
+    {
+      "name": "New user role",
+      "url": "#/user-roles/new"
+    },
+    {
+      "name": "User groups",
+      "url": "#/user-groups"
+    },
+    {
+      "name": "New user group",
+      "url": "#/user-groups/new"
+    }
+  ]
+}
