@@ -26,16 +26,7 @@
   },
   {
     "locale": "cs",
-    "shortcuts": {
-      "Users": "",
-      "New user": "Nový uživatel",
-      "User roles": "",
-      "New user role": "",
-      "User groups": "",
-      "New user group": ""
-    },
-    "title": "",
-    "description": ""
+    "shortcuts": {}
   },
   {
     "locale": "da",
@@ -64,16 +55,7 @@
   },
   {
     "locale": "fr",
-    "shortcuts": {
-      "Users": "",
-      "New user": "Nouvel utilisateur",
-      "User roles": "",
-      "New user role": "",
-      "User groups": "",
-      "New user group": ""
-    },
-    "title": "",
-    "description": ""
+    "shortcuts": {}
   },
   {
     "locale": "hi_IN",
@@ -94,16 +76,7 @@
   },
   {
     "locale": "km",
-    "shortcuts": {
-      "Users": "គណនីប្រើប្រាស់",
-      "New user": "",
-      "User roles": "សិទ្ធិអ្នកប្រើប្រាស់",
-      "New user role": "",
-      "User groups": "",
-      "New user group": ""
-    },
-    "title": "គណនីប្រើប្រាស់",
-    "description": ""
+    "shortcuts": {}
   },
   {
     "locale": "lo",
@@ -147,16 +120,7 @@
   },
   {
     "locale": "ru",
-    "shortcuts": {
-      "Users": "Пользователи",
-      "New user": "",
-      "User roles": "Уровень доступа",
-      "New user role": "",
-      "User groups": "",
-      "New user group": ""
-    },
-    "title": "Пользователи",
-    "description": ""
+    "shortcuts": {}
   },
   {
     "locale": "si",
@@ -200,16 +164,7 @@
   },
   {
     "locale": "vi",
-    "shortcuts": {
-      "Users": "Người dùng",
-      "New user": "",
-      "User roles": "Quyền người dùng",
-      "New user role": "",
-      "User groups": "",
-      "New user group": ""
-    },
-    "title": "Người dùng",
-    "description": ""
+    "shortcuts": {}
   },
   {
     "locale": "zh",
