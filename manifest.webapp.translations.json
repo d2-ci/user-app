@@ -5,16 +5,7 @@
   },
   {
     "locale": "ar_IQ",
-    "shortcuts": {
-      "Users": "",
-      "New user": "",
-      "User roles": "",
-      "New user role": "",
-      "User groups": "",
-      "New user group": ""
-    },
-    "title": "",
-    "description": ""
+    "shortcuts": {}
   },
   {
     "locale": "bn",
