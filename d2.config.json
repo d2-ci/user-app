@@ -32,7 +32,7 @@
       "url": "#/user-groups/new"
     }
   ],
-  "version": "100.10.0",
+  "version": "100.11.0",
   "entryPoints": {
     "app": "index.html"
   }
