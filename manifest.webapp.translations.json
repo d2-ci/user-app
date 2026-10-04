@@ -24,6 +24,10 @@
     "shortcuts": {}
   },
   {
+    "locale": "de",
+    "shortcuts": {}
+  },
+  {
     "locale": "en",
     "shortcuts": {
       "Users": "Users",
