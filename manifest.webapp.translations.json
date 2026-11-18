@@ -1,0 +1,159 @@
+[
+  {
+    "locale": "ar",
+    "shortcuts": {}
+  },
+  {
+    "locale": "ar_IQ",
+    "shortcuts": {}
+  },
+  {
+    "locale": "bn",
+    "shortcuts": {}
+  },
+  {
+    "locale": "ckb",
+    "shortcuts": {}
+  },
+  {
+    "locale": "cs",
+    "shortcuts": {}
+  },
+  {
+    "locale": "da",
+    "shortcuts": {}
+  },
+  {
+    "locale": "en",
+    "shortcuts": {
+      "Users": "Users",
+      "New user": "New user",
+      "User roles": "User roles",
+      "New user role": "New user role",
+      "User groups": "User groups",
+      "New user group": "New user group"
+    },
+    "title": "Users",
+    "description": "An application for managing users, user-groups and user-roles"
+  },
+  {
+    "locale": "es",
+    "shortcuts": {}
+  },
+  {
+    "locale": "es_419",
+    "shortcuts": {}
+  },
+  {
+    "locale": "fr",
+    "shortcuts": {}
+  },
+  {
+    "locale": "hi_IN",
+    "shortcuts": {}
+  },
+  {
+    "locale": "id",
+    "shortcuts": {}
+  },
+  {
+    "locale": "km",
+    "shortcuts": {}
+  },
+  {
+    "locale": "lo",
+    "shortcuts": {}
+  },
+  {
+    "locale": "my",
+    "shortcuts": {}
+  },
+  {
+    "locale": "nb",
+    "shortcuts": {}
+  },
+  {
+    "locale": "ne",
+    "shortcuts": {}
+  },
+  {
+    "locale": "nl",
+    "shortcuts": {}
+  },
+  {
+    "locale": "prs",
+    "shortcuts": {}
+  },
+  {
+    "locale": "ps",
+    "shortcuts": {}
+  },
+  {
+    "locale": "pt",
+    "shortcuts": {}
+  },
+  {
+    "locale": "pt_BR",
+    "shortcuts": {}
+  },
+  {
+    "locale": "ro",
+    "shortcuts": {}
+  },
+  {
+    "locale": "ru",
+    "shortcuts": {}
+  },
+  {
+    "locale": "si",
+    "shortcuts": {}
+  },
+  {
+    "locale": "sv",
+    "shortcuts": {}
+  },
+  {
+    "locale": "tet",
+    "shortcuts": {}
+  },
+  {
+    "locale": "tg",
+    "shortcuts": {}
+  },
+  {
+    "locale": "uk",
+    "shortcuts": {}
+  },
+  {
+    "locale": "ur",
+    "shortcuts": {}
+  },
+  {
+    "locale": "uz_Cyrl",
+    "shortcuts": {}
+  },
+  {
+    "locale": "uz_Latn",
+    "shortcuts": {}
+  },
+  {
+    "locale": "uz_UZ_Cyrl",
+    "shortcuts": {}
+  },
+  {
+    "locale": "uz_UZ_Latn",
+    "shortcuts": {}
+  },
+  {
+    "locale": "vi",
+    "shortcuts": {}
+  },
+  {
+    "locale": "zh",
+    "shortcuts": {}
+  },
+  {
+    "locale": "zh_CN",
+    "shortcuts": {}
+  }
+]
